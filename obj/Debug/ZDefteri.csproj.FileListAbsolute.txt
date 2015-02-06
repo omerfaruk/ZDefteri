@@ -1,0 +1,6 @@
+c:\users\omer\documents\visual studio 2013\Projects\ZDefteri\ZDefteri\obj\Debug\ZDefteri.csprojResolveAssemblyReference.cache
+c:\users\omer\documents\visual studio 2013\Projects\ZDefteri\ZDefteri\bin\ZDefteri.dll.config
+c:\users\omer\documents\visual studio 2013\Projects\ZDefteri\ZDefteri\bin\ZDefteri.dll
+c:\users\omer\documents\visual studio 2013\Projects\ZDefteri\ZDefteri\bin\ZDefteri.pdb
+c:\users\omer\documents\visual studio 2013\Projects\ZDefteri\ZDefteri\obj\Debug\ZDefteri.dll
+c:\users\omer\documents\visual studio 2013\Projects\ZDefteri\ZDefteri\obj\Debug\ZDefteri.pdb
